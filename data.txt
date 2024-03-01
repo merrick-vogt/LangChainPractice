@@ -1,0 +1,61 @@
+Introduction Paragraph:
+
+I am writing to express my enthusiastic interest in the Software Engineer, Home Lending position at Upstart. With a B.S. in Electrical Engineering, an MBA focused on Entrepreneurship, and experience building software products, I am eager to bring my unique blend of skills and experiences to Upstart's innovative approach to AI-driven lending solutions.
+
+Mission for companies with a mission for equity but are not education related: 
+
+Having served as a Teach For America educator, I developed a passion for increasing equity and accessibility through technology. While working in South Central Los Angeles, I witnessed the challenges many families faced with homeownership and wealth-building. Your mission of partnering with banks and credit unions to expand access to affordable credit perfectly aligns with my interests. I would be thrilled to contribute to either the home equity line of credit or the home loan initiative for homebuyers.
+
+Mission for companies empowering teachers.
+
+Your mission to empower educators by removing barriers for impactful learning and improving access to digital resources deeply resonates with me. During my time at StudentU, I developed an engineering curriculum to get students excited about STEM and careers in tech. Feedback from students indicated that they are 50% more likely to continue their interest in engineering. The ability to impact students' lives in such a manner is precisely why I am so drawn to the edtech space, and specifically to a leading company like ClassLink.
+
+Mission for empowering students.
+
+Code the Dream's commitment to creating opportunities and supporting diversity deeply resonates with my journey. Having taught in South Central Los Angeles, I witnessed the creativity and resilience of students, especially English Language Learners excelling in physics, reinforcing my belief in the transformative power of education.
+
+Technical Proficiency from Momentum’s Bootcamp
+
+My technical proficiency includes hands-on experience with JavaScript, React, C#, Java, and LLMs, closely aligning with the technical requirements outlined in your job description. I honed these skills during my undergraduate studies and Momentum's 16-week intensive full-stack Bootcamp, focusing on front-end and back-end web development.
+
+During the backend phase of the bootcamp, I developed Question Box, a clone of Stack Overflow. I practiced skills in Python, Django, and SQLite. 
+
+Technical Proficiency for developing MiniQuaist
+
+A standout project during the bootcamp involved implementing OpenAI's API to create video game characters with AI-powered dialogue, showcasing my experience in generative AI. Additionally, I served as a project manager, utilizing tools such as Figma and Trello to ensure the success of the project through effective design and project management.
+
+Technical Proficiency for developing MiniQuaist and Spotify Song Search with PKCE
+
+While spearheading the development of Mini Quaist, a React-based video game, as the project manager, I led the scrum by guiding the design process, overseeing ticket management, and facilitating daily stand-ups. In creating the AI-driven NPC dialogue, I integrated OpenAI's endpoints, leveraging previously used tools like Postman. Currently, I am implementing Authorization Flow with PKCE in an ongoing project that interfaces with Spotify's API. I plan to integrate Cypress testing into this product upon the completion of the minimum viable product.
+
+Technical Proficiency for developing Spotify Advanced Song Search
+
+I possess a proven track record in building and maintaining software that solves complex problems, as evidenced by the development of a Spotify Advanced Song Search Application. After interviewing Spotify users, I developed an application to allow users to search their favorite music by filtering song data sourced from Spotify's API. After creating the web application, I asked users for feedback to improve the design.
+
+Technical Proficiency as a Java Teaching Assistant
+
+As a teaching assistant for Introduction to Java at Washington University, I taught and provided feedback to adult learners who were career-switching, writing curriculum and problem sets to enhance their learning experience. Currently, I am developing a video game in Unity using scripts in C#, showcasing my ongoing commitment to hands-on technical projects.
+
+Prior Experience for Challenge Authority. Don’t use this story below.
+
+As an educator at Nava College Prep and Camelot Academy, I am comfortable challenging authority and am proud of developing and implementing a successful restorative behavior system. Through collaborative efforts with students, parents, administration, and my mentor teacher, I ensured the system's effectiveness for student growth. Both school administrations adopted the restorative behavior system and integrated it into other classrooms. My commitment to the "leave it better than you found it" mentality extends beyond the classroom, and I am excited about the opportunity to bring this mindset to the Home Lending team at Upstart.
+
+Prior Experience for having a Growth Mindset
+
+Throughout my career, I have always strived to learn more with a growth mindset. As a teacher, I proactively sought feedback from multiple sources, including my mentor teacher and other science educators, as well as observations from my principal. This dedication to continuous improvement extended into my bootcamp experience, where I not only learned quickly but also actively sought feedback from instructors and teammates on various projects. This growth mindset has been a cornerstone of my professional journey, driving me to consistently seek opportunities for learning and improvement.	
+
+Prior Experience for Teamwork, Problem Solving, Communication
+
+Teamwork, problem solving, and communication are skills that I’ve honed through my career. At StudentU, I collaborated with fellow mentor teachers to standardize best practices, ensuring a quality learning experience for all student-teachers. At Washington University in St. Louis, I used my problem solving mindset to tackle difficult projects including building a balancing two-arm robot using control systems, programming with FPGAs, and analyzing communication networks. I have honed my communication skills through diverse experiences—from conveying learning objectives to students to coordinating with parents on educational plans. These skills would make me an asset in a cross-functional team setting, especially in an industry that bridges technology and education.
+
+Prior Experience for Mentorship
+
+As a math mentor teacher at StudentU, I successfully mentored five first-time educators with a focus on individualized support. Notably, I customized strategies for a teacher struggling with confidence, implementing visual agendas, a counting technique for thoughtful responses, and restorative behavioral practices.
+
+Prior Experience for Curriculum Development
+
+After two summers of mentoring teachers, StudentU hired me to develop their high school math and engineering curriculum. I took the initiative to meet with the academic team to ensure a collaborative approach in developing the curriculum. A key component of the curriculum involved introducing students to coding using an Arduino Uno. This experience underscores my abilities to collaborate with stakeholders and integrate new technologies, qualities I am eager to bring to Code the Dream.
+
+Closing Paragraph
+
+I am confident that my technical skills, combined with my passion for creating equity through technology make me an ideal candidate for this role. I am eager to discuss how my skills align with the specific needs of the Home Lending team. Thank you for considering my application. I look forward to the opportunity to further discuss how I can contribute to Upstart's mission.	
